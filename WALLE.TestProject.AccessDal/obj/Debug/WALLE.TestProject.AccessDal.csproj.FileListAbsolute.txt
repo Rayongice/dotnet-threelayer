@@ -1,0 +1,11 @@
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\bin\Debug\WALLE.TestProject.AccessDal.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\bin\Debug\WALLE.TestProject.AccessDal.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\obj\Debug\WALLE.TestProject.AccessDal.csprojAssemblyReference.cache
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\obj\Debug\WALLE.TestProject.AccessDal.csproj.CoreCompileInputs.cache
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\obj\Debug\WALLE.TestProject.AccessDal.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\obj\Debug\WALLE.TestProject.AccessDal.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\bin\Debug\WALLE.TestProject.IDAL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\bin\Debug\WALLE.TestProject3.Model.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\bin\Debug\WALLE.TestProject.IDAL.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\bin\Debug\WALLE.TestProject3.Model.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.AccessDal\obj\Debug\WALLE.TestProject.AccessDal.csproj.CopyComplete

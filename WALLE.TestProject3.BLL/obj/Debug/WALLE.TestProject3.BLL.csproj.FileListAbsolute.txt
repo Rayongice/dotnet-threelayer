@@ -1,0 +1,15 @@
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.BLL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.BLL.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.DAL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.Model.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.DAL.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.Model.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\obj\Debug\WALLE.TestProject3.BLL.csprojAssemblyReference.cache
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\obj\Debug\WALLE.TestProject3.BLL.csproj.CoreCompileInputs.cache
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\obj\Debug\WALLE.TestProject3.BLL.csproj.CopyComplete
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\obj\Debug\WALLE.TestProject3.BLL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\obj\Debug\WALLE.TestProject3.BLL.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject.IDAL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.DALFactory.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject.IDAL.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.BLL\bin\Debug\WALLE.TestProject3.DALFactory.pdb

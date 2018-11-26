@@ -1,0 +1,9 @@
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\bin\Debug\WALLE.TestProject.IDAL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\bin\Debug\WALLE.TestProject.IDAL.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\bin\Debug\WALLE.TestProject3.Model.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\bin\Debug\WALLE.TestProject3.Model.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\obj\Debug\WALLE.TestProject.IDAL.csprojAssemblyReference.cache
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\obj\Debug\WALLE.TestProject.IDAL.csproj.CoreCompileInputs.cache
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\obj\Debug\WALLE.TestProject.IDAL.csproj.CopyComplete
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\obj\Debug\WALLE.TestProject.IDAL.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject.IDAL\obj\Debug\WALLE.TestProject.IDAL.pdb
