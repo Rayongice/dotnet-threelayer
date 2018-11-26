@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form action="UpdateInfo.ashx" method="post">
+        <input type="hidden" name="txtID" value="$txtID" />
+        <table>
+            <tr>
+                <td>ID:$ID<input type="text" name="ID" value="$ID" disabled="disabled" /></td>
+            </tr>
+            <tr>
+                <td>用户名<input type="text" name="UserName" value="$UserName" /></td>
+            </tr>
+            <tr>
+                <td>密码<input type="text" name="UserPass" value="$UserPass" /></td>
+            </tr>
+            <tr>
+                <td>时间<input type="text" name="RegTime" value="$RegTime" /></td>
+            </tr>
+            <tr>
+                <td>Email<input type="text" name="Email" value="$Email" /></td>
+            </tr>
+        </table>
+        <input type="submit" name="name" value="提交" />
+
+    </form>
+</body>
+</html>
