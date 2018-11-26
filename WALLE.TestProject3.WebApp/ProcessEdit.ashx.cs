@@ -15,14 +15,18 @@ namespace WALLE.TestProject3.WebApp
         public void ProcessRequest(HttpContext context)
         {
             context.Response.ContentType = "text/html";
-            UserInfo userInfo = new UserInfo();
+            //UserInfo userInfo = new UserInfo();
+            //userInfo.UserName = context.Request.Form["UserName"];
+            //userInfo.UserPass = context.Request.Form["UserPass"];
+            //userInfo.RegTime = Convert.ToDateTime(context.Request.Form["RegTime"]);
+            //userInfo.Email = context.Request.Form["Email"];
+            //userInfo.ID = Convert.ToInt32(context.Request.Form["txtID"]);
+            int id = Convert.ToInt32(context.Request.Form["txtID"]);
+            BLL.UserInfoService userInfoService = new BLL.UserInfoService();
+            UserInfo userInfo = userInfoService.GetModel(id);
             userInfo.UserName = context.Request.Form["UserName"];
             userInfo.UserPass = context.Request.Form["UserPass"];
-            userInfo.RegTime = Convert.ToDateTime(context.Request.Form["RegTime"]);
-            userInfo.Email = context.Request.Form["Email"];
-            userInfo.ID = Convert.ToInt32(context.Request.Form["txtID"]);
 
-            BLL.UserInfoService userInfoService = new BLL.UserInfoService();
             if(userInfoService.UpdateEntity(userInfo))
             {
                 context.Response.Redirect("UserInfoList.ashx");

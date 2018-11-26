@@ -44,3 +44,5 @@ D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.WebApp\bin\WALLE.TestProject.ID
 D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.WebApp\bin\WALLE.TestProject3.DALFactory.dll
 D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.WebApp\bin\WALLE.TestProject.IDAL.pdb
 D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.WebApp\bin\WALLE.TestProject3.DALFactory.pdb
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.WebApp\bin\WALLE.TestProject3.Common.dll
+D:\Sun New\WALLE.TestProject3\WALLE.TestProject3.WebApp\bin\WALLE.TestProject3.Common.pdb
